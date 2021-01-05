@@ -1,0 +1,5 @@
+1  ,City       ,Company           ,Department,Location,Region              ,School   ,State     ,University              
+No ,Dallas     ,Texas Instruments ,          ,US      ,                    ,         ,Texas     ,                        
+Yes,Caen       ,                  ,14        ,FR      ,Normandie           ,ESIX Caen,          ,                        
+No ,Grenoble   ,STMicroelectronics,38        ,FR      ,Auvergne-Rhone-Alpes,         ,          ,                        
+Yes,Los Angeles,                  ,          ,US      ,                    ,         ,California,University of California
